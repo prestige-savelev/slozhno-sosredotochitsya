@@ -2,3 +2,16 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root {
+  --accent-color: rgba(255, 0, 112, 1);
+  --text-color: rgba(0, 0, 40, 1);
+  --accent-text-color:rgba(255, 0, 112, 1);
+  --text-color-title: rgba(219, 0, 255, 1);
+  --text-color-title-box:rgba(255, 0, 112, 1);
+  --color-decoration:rgba(255, 0, 112, 1);
+  --color-decoration-rec:rgba(255, 0, 112, 1);
+  --background-color:rgba(0, 0, 40, 1);
+  --background-image:url(../images/cover-image-dark.png);
+  --text-section:rgba(241, 178, 206, 1);
+} 
