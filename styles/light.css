@@ -13,6 +13,7 @@
   --accent-text-color: rgba(53, 52, 48, 1);
   --text-color: rgba(53, 52, 48, 1);
   --color-decoration-rec: rgb(255,238,246);
+  --text-color-hover-nav:rgba(50, 49, 45, 0.4);
   --background-color: rgb(255,238,246);
   --text-color-title: rgba(255, 194, 230, 1);
   --text-color-title-box: rgba(255, 0, 112, 1); 
@@ -28,6 +29,7 @@
   --accent-text-color: rgba(53, 52, 48, 1);
   --text-color: rgba(53, 52, 48, 1);
   --color-decoration-rec:rgb(255,238,246);
+  --text-color-hover-nav:rgba(50, 49, 45, 0.4);
   --background-color: rgb(255,238,246);
   --text-color-title: rgba(255, 194, 230, 1);
   --text-color-title-box: rgba(255, 0, 112, 1); 
